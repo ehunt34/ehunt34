@@ -30,3 +30,7 @@ Laptop
 
 Steam Deck 512 GB
 - OS: SteamOS + Arch Linux
+
+Chromebook
+- OS: ChromeOS + ChromiumOS + Arch Linux (in the future)
+- Board: jacuzzi
