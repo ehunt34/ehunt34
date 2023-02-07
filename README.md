@@ -22,7 +22,7 @@ You need not know my name, but you can call me Marathon.
 My devices:
 
 Laptop
-- OS: Arch Linux + Windows 10
+- OS: Arch Linux (borked rn) + Windows 10
 - CPU: Intel Core i5 10300-H
 - GPU: Nvidia GTX 1650
 - RAM: 16 GB DDR4
@@ -32,5 +32,5 @@ Steam Deck 512 GB
 - OS: SteamOS + Arch Linux
 
 Chromebook
-- OS: ChromeOS + ChromiumOS + Arch Linux (in the future)
+- OS: ChromeOS + ChromiumOS (in the future)
 - Board: jacuzzi
