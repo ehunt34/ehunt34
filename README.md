@@ -1,5 +1,3 @@
-### Welcome, traveler
-
 <!--
 **ehunt34/ehunt34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,21 +14,20 @@ Here are some ideas to get you started:
 -->
 You need not know my name, but you can call me Marathon.
 
-- I’m currently working on NeoCros/Neochromium.
-- I’m currently interested in Linux, code, and exploiting software bugs.
+- Chilling
+- I’m currently interested in Linux, code, and application programming.
 
 My devices:
 
 Laptop
-- OS: Arch Linux (borked rn) + Windows 10
+- OS: Arch Linux + Windows 10
 - CPU: Intel Core i5 10300-H
 - GPU: Nvidia GTX 1650
 - RAM: 16 GB DDR4
 - Storage: 1x 256 GB NVMe SSD, 1x 256 GB SATA SSD
 
 Steam Deck 512 GB
-- OS: SteamOS + Arch Linux
+- OS: SteamOS + QEMU/KVM running Arch Linux, Android x86, and Windows 10 AME
 
-Chromebook
-- OS: ChromeOS + ChromiumOS (in the future)
-- Board: jacuzzi
+
+What happens when a spring is compressing too far, then let go? It bounces back higher than if you pushed it less. Might explain a couple of things.
